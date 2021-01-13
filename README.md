@@ -2,6 +2,13 @@
 
 BS-OCR is a Pyqt program that helps you extract text from images using Optical Character Recognition.
 
+### Prerequisites
+
+Install pytesseract module;Python-tesseract is an optical character recognition (OCR) tool for python. That is, it will recognize and “read” the text embedded in images.
+
+```
+pip install pytesseract
+```
 
 ## Usage
 In your terminal navigate to the program directory and type:
