@@ -1,7 +1,6 @@
 # BS-OCR
 
 BS-OCR is a PyQt5 program that helps you extract text from images using Optical Character Recognition.
-![screenshot](screenshot.png)
 
 ### Prerequisites
 
